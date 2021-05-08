@@ -1,0 +1,21 @@
+{
+  "name": "graphql-hello-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Quintion <QuintionTang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.23.0",
+    "graphql": "^15.5.0",
+    "nanoid": "^3.1.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QuintionTang/graphql-hello-api.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "Apollo",
+    "Subscriptions"
+  ]
+}
